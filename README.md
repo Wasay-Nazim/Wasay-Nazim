@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Kaarim;Software+Engineer;Full-Stack+Developer;AI+Explorer)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Wasay+Nazim;Junior+Software+Engineer;)</div>
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Passionate about building scalable web applications and exploring AI technologie
 ```
 
 ---
-
+</div>
 ## 🛠️ **Skills & Technologies**
 
 <div align="center">

@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Wasay Nazim
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Software+Engineer;Full+Stack+Developer;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Software+Engineer;Problem+Solver;Persistent+Learner;Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -13,6 +13,7 @@ I'm a passionate **Junior Software Engineer** and student at **Sir Syed Universi
 - 🌱 Always learning and exploring new technologies
 - 🏆 **2x Exhibition Winner** at SSUET University
 - 💡 Passionate about solving real-world problems through technology
+- 🔍 **"I don't say 'I don't know' - I find a way to code it"**
 - 🎯 Goal: Creating meaningful software that makes a difference
 
 ## 🛠️ Tech Stack & Tools
@@ -77,7 +78,8 @@ I'm a passionate **Junior Software Engineer** and student at **Sir Syed Universi
 const currentFocus = {
     learning: ["Advanced JavaScript", "React.js", "Node.js"],
     building: ["Portfolio Website", "Open Source Contributions"],
-    goals: ["Master Full-Stack Development", "Contribute to Tech Community"],
+    mindset: "If I don't know how to code it, I'll find a way",
+    goals: ["Master Software Development", "Contribute to Tech Community"],
     interests: ["Web Development", "Problem Solving", "Innovation"]
 };
 ```

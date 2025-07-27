@@ -2,7 +2,15 @@
 
 # 🚀 Hey there! I'm Wasay Nazim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Junior+Software+Engineer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Persistent+Learner+%F0%9F%93%9A;Innovation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Dynamic Typing Animation -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Junior+Software+Engineer;%F0%9F%A7%A9+Creative+Problem+Solver;%F0%9F%9A%80+Persistent+Code+Explorer;%F0%9F%92%A1+Innovation+Enthusiast;%F0%9F%94%A5+Never+Give+Up+Mindset" alt="Dynamic Typing Animation" />
+</div>
+
+<!-- Animated Tech Keywords -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Crafting+Digital+Solutions+%E2%9C%A8;%F0%9F%94%A7+Building+Tomorrow's+Technology;%F0%9F%8E%AF+Turning+Ideas+Into+Reality;%F0%9F%92%AA+Finding+Ways+When+Others+Say+No" alt="Tech Keywords" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

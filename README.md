@@ -72,7 +72,7 @@ I'm a passionate **Junior Software Engineer** and **Software Engineering Student
 <img src="https://img.shields.io/badge/SSUET-Exhibition-blue?style=for-the-badge" />
 
 - 🏥 **Healthcare Innovation**
-- 🌐 **Modern Web Technologies**
+- 🌐 **Modern Technologies**
 - 🔗 **Donor-Patient Connection**
 - ⚡ **Streamlined Processes**
 
